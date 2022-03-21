@@ -21,7 +21,6 @@ merkleScript es un pequeño script para hacer arboles de Merkle asi como pruebas
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
 `
-
 `
 proof : 0x999bf57501565dbd2fdcea36efa2b9aef8340a8901e3459f4a4c926275d36cdb
 `
@@ -48,7 +47,6 @@ merkleScript is a small script for doing Merkle root as well as tree tests. It i
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
 `
-
 `
 proof : 0x999bf57501565dbd2fdcea36efa2b9aef8340a8901e3459f4a4c926275d36cdb
 `
