@@ -16,7 +16,7 @@ merkleScript es un pequeño script para hacer arboles de Merkle asi como pruebas
 `        "addess": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
 `
 1. Corre el script:
-`npm index.js`
+`npm start`
 1. Tu salida será similar a esta y puedes usarla en tus proyectos:
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
@@ -42,7 +42,7 @@ merkleScript is a small script for doing Merkle root as well as tree tests. It i
 `        "addess": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
 `
 1. Run
-`npm index.js`
+`npm start`
 1. Your output will be similar to this and you can use it into your projects:
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
