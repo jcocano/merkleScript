@@ -15,15 +15,9 @@ merkleScript es un pequeño script para hacer arboles de Merkle asi como pruebas
 1. En el archivo tokens.json se ponen las direcciones de ethereum a las que daras lista blanca (Si meteras mas de una, asegura poner las comas correspondientes despues de las llaves): <br />
 `        "addess": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
 `
-<<<<<<< HEAD
 1. Corre el script:
 `npm start`
 1. Tu salida será similar a esta y puedes usarla en tus proyectos:
-=======
-1. Corre el script:<br />
-`npm index.js`
-1. Tu salida será similar a esta y puedes usarla en tus proyectos: <br />
->>>>>>> 6f4d3718ad5969cfa31aacb13448be8e6cd88e0f
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
 `
@@ -47,15 +41,9 @@ merkleScript is a small script for doing Merkle root as well as tree tests. It i
 1. In the tokens.json file, put the ethereum addresses to which you will whitelist (If you put more than one, make sure to put the corresponding commas after the braces): <br />
 `        "addess": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
 `
-<<<<<<< HEAD
 1. Run
 `npm start`
 1. Your output will be similar to this and you can use it into your projects:
-=======
-1. Run <br />
-`npm index.js`
-1. Your output will be similar to this and you can use it into your projects: <br />
->>>>>>> 6f4d3718ad5969cfa31aacb13448be8e6cd88e0f
 `
 root : 0x9d997719c0a5b5f6db9b8ac69a988be57cf324cb9fffd51dc2c37544bb520d65 
 `
